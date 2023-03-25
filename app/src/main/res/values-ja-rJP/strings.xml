@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">クイズアプリ</string>
+    <string name="startQuizText">[クイズを開始] ボタンをクリックして開始します</string>
+    <string name="trueFalseError">" まずはクイズからどうぞ！"</string>
+    <string name="button">" 間違い"</string>
+    <string name="button2">" 真実"</string>
+    <string name="button3">" クイズを開始"</string>
+    <string name="button3Restart">クイズを再開</string>
+    <string name="question1">サッカーは最も注目されているスポーツです</string>
+    <string name="question2">ラニアは最高の先生です</string>
+    <string name="question3">トロントはオンタリオ州の州都です</string>
+    <string name="question4">" Android開発は楽しい"</string>
+    <string name="question5">" 言語機能の追加は面倒だった"</string>
+    <string name="question6">" 勉強は楽しい"</string>
+    <string name="question7">" 学校での試験は必要ありません"</string>
+    <string name="question8">" 技術職の給料は高くない"</string>
+    <string name="question9">" カナダは北アメリカにある"</string>
+    <string name="question10">日本はアメリカと国境を接している</string>
+    <string name="averageOption">" 平均を取得"</string>
+    <string name="numberOfQuestions">" 問題数の変更"</string>
+    <string name="deleteSaves">" 保存した結果をすべて削除する"</string>
+    <string name="changeNumTitle">" 問題数の変更"</string>
+    <string name="changeNumMessage">" クイズに何問出題しますか?"</string>
+    <string name="openResultsError">" 結果が保存されていません。"</string>
+    <string name="openResultsMessage">" あなたの正解数÷総出題数＝"</string>
+    <string name="completionTitle">" おめでとう！"</string>
+    <string name="completionMessagePart1">" あなたは答えました"</string>
+    <string name="completionMessagePart2">" 正しく出題"</string>
+    <string name="completionMessagePart3">" 質問"</string>
+    <string name="okay">わかった</string>
+    <string name="right">" 正しい"</string>
+    <string name="wrong">" 間違い"</string>
+    <string name="cancel">" キャンセル"</string>
+    <string name="save">" 保存"</string>
+</resources>
+

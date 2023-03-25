@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="startQuizText">Click the "Start Quiz" button to begin</string>
+    <string name="trueFalseError">Please start the quiz first!</string>
+    <string name="button">False</string>
+    <string name="button2">True</string>
+    <string name="button3">Start Quiz</string>
+    <string name="button3Restart">Restart Quiz</string>
+    <string name="question1">Soccer is the most watched sport</string>
+    <string name="question2">Rania is the best teacher</string>
+    <string name="question3">Toronto is the capital city of Ontario</string>
+    <string name="question4">Android Development is fun</string>
+    <string name="question5">Adding the language feature was a hassle</string>
+    <string name="question6">Studying is fun</string>
+    <string name="question7">Exams are not needed in school</string>
+    <string name="question8">Tech jobs do not pay a lot</string>
+    <string name="question9">Canada is in North America</string>
+    <string name="question10">Japan is on the border of USA</string>
+    <string name="averageOption">Get The Average</string>
+    <string name="numberOfQuestions">Change number of Questions</string>
+    <string name="deleteSaves">Delete all saved results</string>
+    <string name="changeNumTitle">Changing number of questions</string>
+    <string name="changeNumMessage">How many questions do you want for the quiz?</string>
+    <string name="openResultsError">You have no results saved!</string>
+    <string name="openResultsMessage">Your Correct answers/Total number of questions = </string>
+    <string name="completionTitle">Congratulations!</string>
+    <string name="completionMessagePart1">You have answered </string>
+    <string name="completionMessagePart2"> questions correctly out of </string>
+    <string name="completionMessagePart3"> questions</string>
+    <string name="okay">OK</string>
+    <string name="right">Correct</string>
+    <string name="wrong">Wrong</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+</resources>
